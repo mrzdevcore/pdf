@@ -1,0 +1,131 @@
+{
+    "type": "EEG",
+    "signature": {
+        "name": "Name",
+        "title": "Title\\\\\n          ONM: 030330030303",
+        "src": "signature-url.png"
+    },
+    "headerTitle": "Medical center name",
+    "headerNote": "addresse",
+    "paperTitle": "Compte rendu d'observation",
+    "footerNote": "footer note",
+    "metaInfo": {
+        "title": "REFERENCES",
+        "data": [
+            [
+                1,
+                {
+                    "ID du patient": "022222",
+                    "Id fichier": "39393934343"
+                }
+            ],
+            [
+                2,
+                {
+                    "Nom et prénoms": "Name and surname"
+                }
+            ],
+            [
+                3,
+                {
+                    "Date de naissance": "10/05/1981",
+                    "Genre": "masculin",
+                    "Age": "50 ans"
+                }
+            ],
+            [
+                4,
+                {
+                    "Domicile": "Domicile",
+                    "Téléphone": "Téléphone"
+                }
+            ],
+            [
+                5,
+                {
+                    "Profession": "-",
+                    "Motif": "EEG"
+                }
+            ],
+            [
+                6,
+                {
+                    "Prescripteur": "Dr. Name"
+                }
+            ],
+            [
+                7,
+                {
+                    "Plaintes principales": "Troubles de la vigilance persistants"
+                }
+            ]
+        ]
+    },
+    "sections": [
+        {
+            "title": "SYNTHESE CLINIQUE",
+            "body": "<p>Il s’agit d’un patient né le 1980-04-22, de sexe masculin, adressé pour EEG à la suite de troubles de la vigilance persistants. Début le 21/11/23 par des céphalées brutale inhabituelles suivi de troubles de la conscience dans un contexte de traumatisme cranien occasionné par la chute d'un arbre sur la tete en travaillant dans la foret, à l'origine d'un hématome sous dural à J30 d'une evacuation chirurgicale. Evolution : état comateux évoluant depuis 3 semaines environ sans amélioration satisfaisante. Traitements actuels : IMIPENEM, AMIKACIN, CARBAMAZEPINE 200 : 1-0-1,TRAMADOL, SYSCHOL. TA = 133 / 81 mm Hg, sous oxygène, Glasgow 9 avec hémiparésie droite. Un coup de branche violent sur la tête. Pas d'antécédents particuliers. TDM crane récente : HSD (non documenté) En cours d'hospitalisation pour trouble de la conscience chez un patient à J30 post opértoire de drainage d'un hématome sous dural.</p>"
+        },
+        {
+            "title": "ENREGISTREMENT",
+            "body": "\n              \\underline{Paramètres d'acquisition:} Appareil: Neuron-Spectrum-4/EP\nFréquence d'échantillonnage: 500 Hz\nMontage: Anneau bipolaire 21\nFiltre passe haut: 0,5 Hz\nFiltre passe bas: 70,0 Hz\nRéjecteur: M\nDurée examen: 00:05:10\nDate examen: mercredi 15 novembre 2023.\n              \\underline{Conditions d'enregistrement:} Patient allongé, endormit, avec trouble de conscience.\n              \\underline{Artefacts:} Artefacts oculaire et électromyographique.\n              "
+        },
+        {
+            "title": "Analyse des traces",
+            "body": "<p><span style=\"text-decoration: underline;\"><strong>Techniques d’analyse:</strong></span> Analyse visuelle et spectrale avec quantification, au repos et au cours des épreuves d'activation. Analyse des rythmes, des anomalies non pathologiques, des paroxysmes et des anomalies non paroxystiques. Détection visuelle et automatique des crises.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Description du rythme de base:</strong></span></p>\n<p>Test de fond:Amplitude moyenne rythme alpha hémisphère gauche est de 18 μV. Amplitude moyenne rythme alpha sur l'hémisphère droit est de 9 µV. Asymétrie rythme alpha inter hémisphérique est de 51,9%. Fréquence dominante rythme alpha est de 9,8 Hz (moyenne 10,0 Hz). Indice rythme Alpha (par spectre) 1,7%. Représentation rythme Alpha 37,9%.</p>\n<p>Yeux fermés:Indice rythme Alpha (par spectre) 2,3%.</p>\n<p>Stimulation flash: Fréquence de stimulation 1 Hz entraine mieux en F3-C3, C3-P3, C4-C3. Fréquence de stimulation 2 Hz entraine mieux en F3-C3. Fréquence de stimulation 4 Hz entraine mieux en F8-T4. Fréquence de stimulation 6 Hz entraine mieux en F8-T4, C4-C3. Fréquence de stimulation 8 Hz entraine mieux en P3-O1. Fréquence de stimulation 10 Hz entraine mieux en F8-T4, T6-O2. Fréquence de stimulation 12 Hz entraine mieux en C3-T3. Fréquence de stimulation 14 Hz entraine mieux en F8-T4.</p>\n<p>Après stimulation:Indice rythme Alpha (par spectre) 2,4%.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Liste des anomalies paroxystiques:</strong></span> Pointes trouvées: 57; pointes lentes trouvées: 88.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Liste des autres anomalies:</strong></span> La recherche Burst/Suppression est terminée. 0 épisode trouvé.</p>"
+        },
+        {
+            "title": "Interpretation",
+            "body": "\n              <p>Tracé de veille avec de nombreux artefacts oculaires et électromyographiques. Tracé continu, polymorphe, irrégulier, mal organisé sans un gradient antéro-postérieur des rythmes et un rythme de base non individualisable alpha à 10 Hz, d'amplitude moyenne à 18 µV à gauche et 9 µV à droite, abondante, bilatérale, asymétrique en amplitude et en morphologie des ondes, et asynchrone, avec blocage bilatéral faible à l'ouverture et fermeture des yeux.</p>\n              <p>L’hyperpnée est non pratiquée.</p>\n              <p>La SLI provoque un entrainement bi-occipital asymétrique à 1 Hz, 4 Hz, 6 Hz, 10 Hz, 14 Hz à droite et 1 Hz, 2 Hz, 6 Hz, 8 Hz, 12 Hz à gauche</p>\n              <p>Présence de pointes monophasiques électronégatives, en bouffées brèves irrégulières, pariétales droites et frontales gauches</p>\n              <p>Absence de décharges épileptiformes généralisées</p>\n              <p>Absence d’activité lente persistante</p>\n              <p>Absence d’autres anomalies, notamment sans microvoltage, ni bouffées suppressives</p>\n              "
+        },
+        {
+            "title": "Conclusion",
+            "body": "\n              <p>Rythme de base, anormal mal organisé • Présence de décharges épileptiformes intercritiques multifocales • Tracés intercritiques d’épilepsie multifocale d’origine structurelle</p>\n              "
+        },
+        {
+            "title": "Recommandations",
+            "body": "\n              <p>1) Continuer le traitement actuel à 5 mg/kg x2/j; Relecture du scanner cérébrale à la recherche de localisation de lésion expliquant l'état du patient; rechercher d'autres causes de troubles de la vigilance; 2) Eviter toute privation de sommeil, toute introduction rapide ou arrêt brutal d'anti-épileptique; 4) A contrôler dans 6 mois.</p>\n              "
+        },
+        {
+            "title": "Illustrations"
+        }
+    ],
+    "images": [
+        {
+            "caption": "Montage longitudinal bipolaire",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050233251-1.PNG?alt=media&token=93f6ee2f-b50e-474f-83e7-c22d27f48b29"
+        },
+        {
+            "caption": "Montage transverse bipolaire",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050236882-2.PNG?alt=media&token=ecd2e420-9b4e-448b-8c87-5788e0d6cf3e"
+        },
+        {
+            "caption": "Montage référentiel",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050242828-3.PNG?alt=media&token=e6c25964-cb3d-486d-a665-18f0c41cca42"
+        },
+        {
+            "caption": "Décharges épileptiformes image",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050247362-4.PNG?alt=media&token=aba1c1b9-8f5e-4a06-a442-d765fa8402c5"
+        },
+        {
+            "caption": "Décharges épileptiformes distribution",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050250820-5.PNG?alt=media&token=ed083d79-37ea-4543-a217-f4150b980ba6"
+        },
+        {
+            "caption": "Anomalies lentes",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050253608-6.PNG?alt=media&token=a083a379-4973-4779-aeca-47f58b788cc6"
+        },
+        {
+            "caption": "Bouffées suppressives",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050257611-7.PNG?alt=media&token=337fa8bd-cad4-4e11-a626-0245ad60e4cd"
+        },
+        {
+            "caption": "Organisation",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050262178-8.PNG?alt=media&token=0a5545b9-3315-4fa2-a479-bd88ec40d3f7"
+        },
+        {
+            "caption": "Réactivité",
+            "src": "https://firebasestorage.googleapis.com/v0/b/afweba.appspot.com/o/upload%2Fanalysis%2F1700050266033-9.PNG?alt=media&token=0330a7a4-db92-4319-ae42-58b00f0d9fc3"
+        }
+    ]
+}
